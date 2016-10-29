@@ -1,0 +1,5 @@
+config.php
+/files/cache
+/files/fonts
+/files/log
+/files/datepicker/lib
